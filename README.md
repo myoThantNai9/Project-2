@@ -13,7 +13,7 @@ In the home page, the system manager can manage three categories members, suscri
 ![Image](screenshots/HomePage.png)
 
 # Subscription Plan Page
-In the subscription plan page, there are three input fields; Plan Name, Price in THB and Duratin (Months). All added plans will be shown under there. The manager can edit and delete the existing plans. 
+In the subscription plan page, there are three input fields; Plan Name, Price in THB and Duratin (Months). All added plans will be shown under there. The manager can add new plans, edit and delete the existing plans. 
 ![Image](screenshots/PlanPage.png)
 ![Image](screenshots/PlanPage-2.png)
 
