@@ -6,7 +6,7 @@ Myo Thant Naing - 6622088 - Section 542
 Chaw Yadanar Oo - 6632782 - Section 542
 
 # Description
-For this final project, we built Pilates Manager using Next.js and tailwind with three data models; members, suscription models and trainers.
+For this final project, we built Pilates Manager using Next.js and tailwind with three data models; members, suscription plans and trainers.
 
 # Home Page
 In the home page, the system manager can manage three categories members, suscription plans and trainers.
